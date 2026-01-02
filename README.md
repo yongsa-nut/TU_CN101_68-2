@@ -54,7 +54,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 13th April    | Songkarn (No Class) |  |   |  |   |
 | 20th April    |  **Final Recap Lab**  | [Lab (TH)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-1/blob/main/Final_Recap_Lab_CN101_2568.ipynb) <br> [Lab (EN)]  | [Sol]  | [Video (TH)] <br> [Video (EN)] | [Lecture Note (TH)] <br> [Lecture Note (EN)] | 
 | 27th April    |  **Final Prep 2 (บนกระดาษ)**  |   |   |  [Video (TH)] <br> [Video (EN)] | [Lecture Note (TH)] <br> [Lecture Note (EN)] | 
-| xxth May      | **Final** |  |  |  |   |
+| 07th May      | **Final** (13:00 - 16:00) |  |  |  |   |
 
 ## Previous Semester Courses
 - 66-2: https://github.com/yongsa-nut/TU_CN101_66-2
