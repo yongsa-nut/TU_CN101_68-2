@@ -1,4 +1,4 @@
-<img width="1996" height="1476" alt="image" src="https://github.com/user-attachments/assets/b0189904-553a-47a7-ad33-38a988bca6bd" /># CN101: Introduction to Computer Programming (2568 เทอม 2)
+# CN101: Introduction to Computer Programming (2568 เทอม 2)
 
 ## Course instruct
 
