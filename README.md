@@ -53,7 +53,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 6th  April    | [Extra - Building Apps with AI](https://docs.google.com/presentation/d/1ZghK4ggq521E5mUW0K6Y_UZAJSMhxM8mzv5Mc08iV78/edit?usp=sharing)  |   |    |  [Video (TH)] <br> [Video (EN)] | 
 | 13th April    | Songkarn (No Class) |  |   |  |   |
 | 20th April    |  **Final Recap Lab**  | [Lab (TH)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-2/blob/main/Final_Recap_Lab_CN101_2568_2_(TH)_updated.ipynb)<br> [Lab (EN)](https://colab.research.google.com/github/yongsa-nut/TU_CN101_68-2/blob/main/Final_Recap_Lab_CN101_2568_2_(EN).ipynb) | [Sol]  | [Video (TH)](https://youtu.be/LmO1_KK7mFg) <br> [Video (EN)](https://youtu.be/xStRwePT4LE) | [Lecture Note (TH)](https://github.com/yongsa-nut/TU_CN101_68-2/blob/main/Final%20Recap%20(TH).pdf) <br> [Lecture Note (EN)] | 
-| 27th April    |  **Final Prep 2 (On paper)**  |   |   |  [Video (TH)] <br> [Video (EN)] | [Lecture Note (TH)] <br> [Lecture Note (EN)] | 
+| 27th April    |  **Final Prep 2 (On paper)**  |   |   |  [Video (TH)](https://youtu.be/i1aaJCsMEe0) <br> [Video (EN)] | | 
 | 07th May      | **Final** (13:00 - 16:00) |  |  |  |   |
 
 ## Previous Semester Courses
